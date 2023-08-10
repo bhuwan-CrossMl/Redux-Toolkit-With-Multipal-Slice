@@ -1,4 +1,6 @@
-# E-Commerce Website with Redux Toolkit Documentation -
+# E-Commerce Website with Redux Toolkit 
+
+# Documentation -
 
 ## Table of Contents
 
