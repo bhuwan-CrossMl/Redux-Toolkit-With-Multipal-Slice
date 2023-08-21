@@ -48,8 +48,6 @@ src/
 |-- features/
 |   |-- cart/
 |   |   |-- cartSlice.js
-|   |-- products/
-|   |   |-- productsSlice.js
 |-- pages/
 |-- App.js
 |-- store.js
